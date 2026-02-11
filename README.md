@@ -4,7 +4,7 @@ This project simulates a basic trading strategy using simple moving averages and
 
 # Why I Built This
 
-As someone planning to study finance and interested in data science, I wanted to explore how technical indicators could be applied using Python. I completed this before starting at UMD to strengthen my skills in working with real data and to understand the fundamentals of building and testing trading logic. This also aligns with my broader interest in data-driven finance research.
+As someone planning to study finance and interested in data science, I wanted to explore how technical indicators could be applied using Python. This also aligns with my broader interest in data-driven finance research and generate signal-based insights and visualize market trends for structured analysis.
 
 # What It Does
 
