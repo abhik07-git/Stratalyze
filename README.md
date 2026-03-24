@@ -10,7 +10,7 @@ As someone planning to study finance and interested in data science, I wanted to
 
 - Prompts the user to input a stock ticker
 - Downloads one year of daily historical price data from Yahoo Finance
-- Calculates 20-day and 100-day simple moving averages
+- Calculates 10-day and 50-day simple moving averages
 - Generates buy and sell signals based on crossover points
 - Visualizes the trading signals and price movements using Matplotlib
 
@@ -21,6 +21,9 @@ As someone planning to study finance and interested in data science, I wanted to
 - `pandas` for data cleaning and analysis
 - `matplotlib` for graphing signals and price action
 - `datetime` for setting dynamic date ranges
+
+- SMA_SHORT = 10
+- SMA_LONG = 50
 
 ##Output
 
